@@ -13,6 +13,8 @@ This is a simple neural network of two fully-connected layers with 32 neurons ea
 <img src="images/simple_accuracy.png" alt="simple_accuracy" width="800" />
 <img src="images/simple_loss.png" alt="simple_loss" width="800" />
 
+From the distribution above, it is clear that the model performs decently as the validation data seems to follow the trend of the training data.
+
 ### Model 2: Overfitting
 
 This model consists of 4 fully-connected layers with 1000 neurons each and connected to an output layer. From testing the data, the following output was achieved.
